@@ -1,0 +1,1 @@
+# news_cap_generator
